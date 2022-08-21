@@ -10,20 +10,20 @@
 ___
 <br />
 
->API 
+>🚀 API 
 > 
 >```dotnetcli
 >dotnet watch run
 >```   
->[runs on port:7027 | **https://localhost:7027**]
+>📑 [runs on port:7027 | **https://localhost:7027**]
 >
 ><br />
->Client 
+>🏡 Client 
 > 
 >```bash
 >ng serve
 >```
->[runs on port:4200 | **https://localhost:4200**]
+>📑 [runs on port:4200 | **https://localhost:4200**]
 ><br />
 ><br />
 
